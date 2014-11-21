@@ -1,2 +1,12 @@
 *.swp
 *~
+*.aux 
+*.bbl 
+*.blg 
+*.dvi 
+*.log 
+*.out
+*Backup.tex 
+*.lof 
+*.toc 
+*.pdf 
