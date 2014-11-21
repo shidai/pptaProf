@@ -1,0 +1,981 @@
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2012.10.12)  21 NOV 2014 19:12
+entering extended mode
+ %&-line parsing enabled.
+**prof.tex
+(./prof.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, arabic, basque, bulgarian, coptic, welsh, czech, slovak, german, ng
+erman, danish, esperanto, spanish, catalan, galician, estonian, farsi, finnish,
+ french, greek, monogreek, ancientgreek, croatian, hungarian, interlingua, ibyc
+us, indonesian, icelandic, italian, latin, mongolian, dutch, norsk, polish, por
+tuguese, pinyin, romanian, russian, slovenian, uppersorbian, serbian, swedish, 
+turkish, ukenglish, ukrainian, loaded.
+(./mn2e.cls
+Document Class: mn2e 2001/02/06 v2.2 LaTeX2e MN document class
+Document Style `MN' v2.2, released 2001 February 20
+\math@groups=\toks14
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmsy/b/n on input line 223.
+\symbmisymbols=\mathgroup4
+\symUPM=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `UPM' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 260.
+\symAMSa=\mathgroup6
+\SFB@measure=\dimen102
+\realparindent=\skip41
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\@indentskip=\skip42
+\smallindent=\skip43
+\@footindent=\skip44
+\@leftskip=\skip45
+\c@dummy=\count85
+(/usr/share/texmf/tex/latex/natbib/natbib.sty
+Package: natbib 2007/02/05 8.0 (PWD)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 602.
+\c@NAT@ctr=\count86
+)
+\c@table=\count87
+\c@figure=\count88
+\mathindent=\dimen103
+)
+(/usr/share/texmf/tex/latex/appendix/appendix.sty
+Package: appendix 2002/08/06 v1.2 extra appendix facilities
+\c@@pps=\count89
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+)
+(/usr/share/texmf/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2002/01/22 v2.2d
+
+(/usr/share/texmf/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\@emptytoks=\toks15
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 85.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 85.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 117.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 124.
+)
+(/usr/share/texmf/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.3 <23 July 2005>
+\epsffilein=\read1
+\epsfframemargin=\dimen104
+\epsfframethickness=\dimen105
+\epsfrsize=\dimen106
+\epsftmp=\dimen107
+\epsftsize=\dimen108
+\epsfxsize=\dimen109
+\epsfysize=\dimen110
+\pspoints=\dimen111
+) (/usr/share/texmf/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2006/08/10 v0.32 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texmf/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.15  <2006/12/22> (tvz)
+\pst@dima=\dimen112
+\pst@dimb=\dimen113
+\pst@dimc=\dimen114
+\pst@dimd=\dimen115
+\pst@dimg=\dimen116
+\pst@dimh=\dimen117
+\pst@hbox=\box26
+\pst@boxg=\box27
+\pst@cnta=\count92
+\pst@cntb=\count93
+\pst@cntc=\count94
+\pst@cntd=\count95
+\pst@cntg=\count96
+\pst@cnth=\count97
+\pst@toks=\toks16
+(/usr/share/texmf/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen118
+\psxunit=\dimen119
+\psyunit=\dimen120
+\pslinewidth=\dimen121
+\pst@customdefs=\toks17
+\pslinearc=\dimen122
+\everypsbox=\toks18
+\psframesep=\dimen123
+\pslabelsep=\dimen124
+\psk@shift=\dimen125
+\pst@shift=\dimen126
+\theoverlaybox=\box28
+)
+File: pstricks.tex 2006/12/22 v1.15 `PSTricks' (tvz)
+
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `override' ignored on input line 216.
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texmf/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+)
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texmf/tex/latex/carlisle/slashed.sty
+Package: slashed 1997/01/16 v0.01 Feynman Slashed Character Notation (DPC)
+)
+(/usr/share/texmf/tex/latex/ltxmisc/relsize.sty
+Package: relsize 2003/07/04 ver 3.1
+)
+(/usr/share/texmf/tex/latex/ltxmisc/morefloats.sty
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@BB=\insert224
+\bx@CC=\insert223
+\bx@DD=\insert222
+\bx@EE=\insert221
+\bx@FF=\insert220
+\bx@GG=\insert219
+\bx@HH=\insert218
+\bx@II=\insert217
+\bx@JJ=\insert216
+)
+(/usr/share/texmf/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen129
+)
+(/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2005/08/23 v2.4b Tabular extension package (FMi)
+\col@sep=\dimen130
+\extrarowheight=\dimen131
+\NC@list=\toks20
+\extratabsurround=\skip48
+\backup@length=\skip49
+)
+(/usr/share/texmf/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
+\@linkdim=\dimen132
+\Hy@linkcounter=\count98
+\Hy@pagecounter=\count99
+
+(/usr/share/texmf/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2006/08/22 v2.4 Connects package keyval with LaTeX options (
+HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2288.
+Package hyperref Info: Link nesting OFF on input line 2293.
+Package hyperref Info: Hyper index ON on input line 2296.
+Package hyperref Info: Plain pages OFF on input line 2303.
+Package hyperref Info: Backreferencing OFF on input line 2308.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2444.
+(/usr/share/texmf/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 2599.
+\Fld@menulength=\count100
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+\Choice@toks=\toks21
+\Field@toks=\toks22
+Package hyperref Info: Hyper figures OFF on input line 3102.
+Package hyperref Info: Link nesting OFF on input line 3107.
+Package hyperref Info: Hyper index ON on input line 3110.
+Package hyperref Info: backreferencing OFF on input line 3117.
+Package hyperref Info: Link coloring OFF on input line 3122.
+\Hy@abspage=\count101
+\c@Item=\count102
+\c@Hfootnote=\count103
+)
+*hyperref using default driver hdvips*
+(/usr/share/texmf/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2007/02/07 v6.75r Hyperref driver for dvips
+
+(/usr/share/texmf/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2007/02/07 v6.75r Hyperref definitions for pdfmark specials
+\pdf@docset=\toks23
+\pdf@box=\box29
+\pdf@toks=\toks24
+\pdf@defaulttoks=\toks25
+\Fld@listcount=\count104
+))
+(/usr/share/texmf/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/share/texmf/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+\abovecaptionskip=\skip50
+\belowcaptionskip=\skip51
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = undefined.
+\c@ContinuedFloat=\count105
+Package caption Info: hyperref package is loaded.
+) (./prof.aux)
+\openout1 = `prof.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+Package hyperref Info: Link coloring OFF on input line 52.
+ (/usr/share/texmf/tex/latex/hyperref/nameref.sty
+Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
+
+(/usr/share/texmf/tex/latex/oberdiek/refcount.sty
+Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
+)
+\c@section@level=\count106
+)
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+ (./prof.out) (./prof.out)
+\@outlinefile=\write3
+\openout3 = `prof.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+eur on input line 82.
+
+(/usr/share/texmf/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+
+(/usr/share/texmf/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+)
+Overfull \hbox (6.00876pt too wide) in paragraph at lines 82--82
+[][]  
+ []
+
+
+Overfull \hbox (45.98534pt too wide) in paragraph at lines 82--82
+[][]  
+ []
+
+
+Overfull \hbox (5.2553pt too wide) in paragraph at lines 82--82
+[][]  
+ []
+
+
+Overfull \hbox (12.96454pt too wide) in paragraph at lines 82--82
+[][]  
+ []
+
+Missing character: There is no â in font cmti8!
+Missing character: There is no € in font cmti8!
+Missing character: There is no “ in font cmti8!
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Overfull \vbox (34.66393pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: Text page 1 contains only floats.
+
+
+Overfull \vbox (43.66393pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (27.66393pt too high) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 128.
+
+
+(/usr/share/texmf/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
+ [1
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 324--324
+[]|\OT1/cmr/m/n/8 J0437$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 4715| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 325--325
+[]|\OT1/cmr/m/n/8 J0613$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 0200| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 326--326
+[]|\OT1/cmr/m/n/8 J0711$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 6830| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 327--327
+[]|\OT1/cmr/m/n/8 J1017$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 7156| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 328--328
+[]|\OT1/cmr/m/n/8 J1022$+$1001| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 330--330
+[]|\OT1/cmr/m/n/8 J1024$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 0719| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 331--331
+[]|\OT1/cmr/m/n/8 J1045$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 4509| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 332--332
+[]|\OT1/cmr/m/n/8 J1446$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 4701| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 333--333
+[]|\OT1/cmr/m/n/8 J1545$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 4550| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 334--334
+[]|\OT1/cmr/m/n/8 J1600$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 3053| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 336--336
+[]|\OT1/cmr/m/n/8 J1603$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 7202| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 337--337
+[]|\OT1/cmr/m/n/8 J1643$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 1224| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 338--338
+[]|\OT1/cmr/m/n/8 J1713$+$0747| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 339--339
+[]|\OT1/cmr/m/n/8 J1730$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 2304| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 340--340
+[]|\OT1/cmr/m/n/8 J1744$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 1134| 
+ []
+
+
+Overfull \hbox (8.66328pt too wide) in paragraph at lines 342--342
+[]|\OT1/cmr/m/n/8 J1824$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 2453A| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 343--343
+[]|\OT1/cmr/m/n/8 J1832$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 0836| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 344--344
+[]|\OT1/cmr/m/n/8 J1857$+$0943| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 345--345
+[]|\OT1/cmr/m/n/8 J1909$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 3744| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 346--346
+[]|\OT1/cmr/m/n/8 J1939$+$2134| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 348--348
+[]|\OT1/cmr/m/n/8 J2124$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 3358| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 349--349
+[]|\OT1/cmr/m/n/8 J2129$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 5721| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 350--350
+[]|\OT1/cmr/m/n/8 J2145$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 0750| 
+ []
+
+
+Overfull \hbox (2.29652pt too wide) in paragraph at lines 351--351
+[]|\OT1/cmr/m/n/8 J2241$\OMS/cmsy/m/n/8 ^^@$\OT1/cmr/m/n/8 5236| 
+ []
+
+
+Overfull \hbox (1.96672pt too wide) in paragraph at lines 315--354
+ [] 
+ []
+
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ˜ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+
+Underfull \hbox (badness 1609) in paragraph at lines 482--509
+\OT1/cmr/m/n/9 ta-tion across the band must be cor-rected. Ac-cord-ing
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 482--509
+[]\OT1/cmr/m/n/9 ; [] []; [] []; []
+ []
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+Missing character: There is no â in font cmr9!
+Missing character: There is no ˆ in font cmr9!
+Missing character: There is no ’ in font cmr9!
+
+Underfull \hbox (badness 1028) in paragraph at lines 892--911
+\OT1/cmr/m/n/9 J2129$\OMS/cmsy/m/n/9 ^^@$\OT1/cmr/m/n/9 5721) as also re-ported
+ in nor-mal pul-sars (e.g.,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: specIndex.ps Graphic file (type eps)
+
+<specIndex.ps>
+File: 1713phaseSI.ps Graphic file (type eps)
+ <1713phaseSI.ps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \hbox (badness 1337) in paragraph at lines 1062--1075
+[]\OT1/cmr/m/n/9 For nine pul-sars, we see a clear de-crease of the
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+File: polHist.ps Graphic file (type eps)
+
+<polHist.ps>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (31.43098pt too wide) in paragraph at lines 1129--1166
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+File: rm.ps Graphic file (type eps)
+
+<rm.ps> [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no ™ in font cmr9!
+ [12]
+(./prof.bbl
+Underfull \hbox (badness 2189) in paragraph at lines 89--91
+[]\OT1/cmr/m/n/9 Kramer M., Wielebin-ski R., Jess-ner A., Gil J. A.,
+ []
+
+
+Underfull \vbox (badness 1917) has occurred while \output is active []
+
+ [13])
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1398.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1398.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1431.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1431.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1433--1460
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1461.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1461.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1463--1481
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1483.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1483.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1485--1503
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1504.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1504.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1506--1524
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+[14]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1527.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1527.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1529--1547
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1549.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1549.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1551--1570
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1571.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1571.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1573--1583
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1584.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1584.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1586--1601
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1602.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1602.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1622.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1622.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1641.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1641.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1657.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1657.
+
+[15]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1681.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1681.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1703.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1703.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1725.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1725.
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 1727--1749
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 1727--1749
+\OT1/cmr/m/n/9 PSR J1824$\OMS/cmsy/m/n/9 ^^@$\OT1/cmr/m/n/9 2452A, which is in 
+the glob-u-lar clus-ter
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1750.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1750.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1765.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1765.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1791.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1791.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1803.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1803.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1829.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1829.
+
+[16]
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1856.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1856.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1877.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1877.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1892.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1892.
+
+File: 0437.ps Graphic file (type eps)
+<0437.ps>
+
+LaTeX Warning: Float too large for page by 8.7144pt on input line 1935.
+
+File: 0613.ps Graphic file (type eps)
+<0613.ps>
+File: 0711.ps Graphic file (type eps)
+ <0711.ps>
+File: 1017.ps Graphic file (type eps)
+ <1017.ps>
+File: 1022.ps Graphic file (type eps)
+ <1022.ps>
+File: 1024.ps Graphic file (type eps)
+ <1024.ps>
+File: 1045.ps Graphic file (type eps)
+ <1045.ps>
+File: 1446.ps Graphic file (type eps)
+ <1446.ps>
+File: 1545.ps Graphic file (type eps)
+
+<1545.ps>
+File: 1600.ps Graphic file (type eps)
+ <1600.ps>
+File: 1603.ps Graphic file (type eps)
+ <1603.ps>
+File: 1643.ps Graphic file (type eps)
+ <1643.ps>
+File: 1713.ps Graphic file (type eps)
+ <1713.ps>
+File: 1730.ps Graphic file (type eps)
+ <1730.ps>
+File: 1744.ps Graphic file (type eps)
+ <1744.ps>
+File: 1824.ps Graphic file (type eps)
+
+<1824.ps>
+File: 1832.ps Graphic file (type eps)
+ <1832.ps>
+File: 1857.ps Graphic file (type eps)
+ <1857.ps>
+File: 1909.ps Graphic file (type eps)
+ <1909.ps>
+File: 1939.ps Graphic file (type eps)
+ <1939.ps>
+File: 2124.ps Graphic file (type eps)
+ <2124.ps>
+File: 2129.ps Graphic file (type eps)
+ <2129.ps>
+File: 2145.ps Graphic file (type eps)
+
+<2145.ps>
+File: 2241.ps Graphic file (type eps)
+ <2241.ps> [17
+
+] [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+(./prof.aux) ) 
+Here is how much of TeX's memory you used:
+ 6173 strings out of 256217
+ 82535 string characters out of 1917094
+ 224298 words of memory out of 1500000
+ 9346 multiletter control sequences out of 10000+200000
+ 19215 words of font info for 70 fonts, out of 1200000 for 2000
+ 645 hyphenation exceptions out of 8191
+ 36i,11n,39p,1545b,449s stack positions out of 5000i,500n,6000p,200000b,15000s
+
+Output written on prof.dvi (41 pages, 244916 bytes).
