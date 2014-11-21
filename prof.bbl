@@ -1,4 +1,4 @@
-\begin{thebibliography}{52}
+\begin{thebibliography}{59}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Bhat} {et~al}\mbox{.}(2004){Bhat}, {Cordes}, {Camilo}, {Nice}, \&
@@ -17,8 +17,14 @@
 {Chen} J.-L., {Wang} H.-G., {Chen} W.-H., {Zhang} H., {Liu} Y., 2007, \cjaa, 7,
   789
 
+\bibitem[{{Cordes}(1978)}]{Cordes78}
+{Cordes} J.~M., 1978, \apj, 222, 1006
+
 \bibitem[{{Cordes} \& {Shannon}(2010)}]{Cordes10}
 {Cordes} J.~M., {Shannon} R.~M., 2010, ArXiv e-prints
+
+\bibitem[{{Dyks} \& {Rudak}(2003)}]{Dyks03}
+{Dyks} J., {Rudak} B., 2003, \apj, 598, 1201
 
 \bibitem[{{Everett} \& {Weisberg}(2001)}]{Everett01}
 {Everett} J.~E., {Weisberg} J.~M., 2001, \apj, 553, 341
@@ -94,10 +100,18 @@
   {Sallmen}}]{1022Kramer99}
 {Kramer} M. {et~al.}, 1999{\natexlab{b}}, \apj, 520, 324
 
+\bibitem[{{Kramer} {et~al}\mbox{.}(1996){Kramer}, {Xilouris}, {Jessner},
+  {Wielebinski}, \& {Timofeev}}]{Kramer96}
+{Kramer} M., {Xilouris} K.~M., {Jessner} A., {Wielebinski} R., {Timofeev} M.,
+  1996, \aap, 306, 867
+
 \bibitem[{{Kramer} {et~al}\mbox{.}(1998){Kramer}, {Xilouris}, {Lorimer},
   {Doroshenko}, {Jessner}, {Wielebinski}, {Wolszczan}, \& {Camilo}}]{Kramer98}
 {Kramer} M., {Xilouris} K.~M., {Lorimer} D.~R., {Doroshenko} O., {Jessner} A.,
   {Wielebinski} R., {Wolszczan} A., {Camilo} F., 1998, \apj, 501, 270
+
+\bibitem[{{Kuzmin} \& {Losovsky}(2001)}]{Kuzmin01}
+{Kuzmin} A.~D., {Losovsky} B.~Y., 2001, \aap, 368, 230
 
 \bibitem[{{Liu} {et~al}\mbox{.}(2014){Liu}, {Desvignes}, {Cognard}, {Stappers},
   {Verbiest}, {Lee}, {Champion}, {Kramer}, {Freire}, \& {Karuppusamy}}]{Liu14}
@@ -167,6 +181,9 @@
   {Ransom}}]{Pennucci14}
 {Pennucci} T.~T., {Demorest} P.~B., {Ransom} S.~M., 2014, ArXiv e-prints
 
+\bibitem[{{Petrova}(2002)}]{Petrova02}
+{Petrova} S.~A., 2002, \aap, 383, 1067
+
 \bibitem[{{Radhakrishnan} \& {Cooke}(1969)}]{Radhakrishnan69}
 {Radhakrishnan} V., {Cooke} D.~J., 1969, \aplett, 3, 225
 
@@ -197,6 +214,9 @@
 {Taylor} J.~H., 1992, Royal Society of London Philosophical Transactions Series
   A, 341, 117
 
+\bibitem[{{Thorsett}(1991)}]{Thorsett91}
+{Thorsett} S.~E., 1991, \apj, 377, 263
+
 \bibitem[{{Thorsett} \& {Stinebring}(1990)}]{Thorsett90}
 {Thorsett} S.~E., {Stinebring} D.~R., 1990, \apj, 361, 644
 
@@ -212,6 +232,11 @@
   {Johnston}, \& {Reynolds}}]{vanStraten10}
 {van Straten} W., {Manchester} R.~N., {Johnston} S., {Reynolds} J.~E., 2010,
   \pasa, 27, 104
+
+\bibitem[{{Watters} {et~al}\mbox{.}(2009){Watters}, {Romani}, {Weltevrede}, \&
+  {Johnston}}]{Watters09}
+{Watters} K.~P., {Romani} R.~W., {Weltevrede} P., {Johnston} S., 2009, \apj,
+  695, 1289
 
 \bibitem[{{Xilouris} {et~al}\mbox{.}(1998){Xilouris}, {Kramer}, {Jessner}, {von
   Hoensbroech}, {Lorimer}, {Wielebinski}, {Wolszczan}, \&

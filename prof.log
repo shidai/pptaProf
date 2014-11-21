@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2012.10.12)  21 NOV 2014 20:30
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=latex 2012.10.12)  21 NOV 2014 23:22
 entering extended mode
  %&-line parsing enabled.
 **prof.tex
@@ -584,269 +584,272 @@ File: rm.ps Graphic file (type eps)
 <rm.ps> [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no ™ in font cmr9!
- [12]
-(./prof.bbl
-Underfull \hbox (badness 2189) in paragraph at lines 89--91
+
+(./prof.bbl [13]
+Underfull \hbox (badness 2189) in paragraph at lines 95--97
 []\OT1/cmr/m/n/9 Kramer M., Wielebin-ski R., Jess-ner A., Gil J. A.,
  []
 
-
-Underfull \vbox (badness 1917) has occurred while \output is active []
-
- [13])
+)
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1398.
+(hyperref)                removing `math shift' on input line 1430.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1398.
+(hyperref)                removing `math shift' on input line 1430.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1431.
+(hyperref)                removing `math shift' on input line 1463.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1431.
+(hyperref)                removing `math shift' on input line 1463.
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 1433--1460
-\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
- []
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1461.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1461.
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 1463--1481
-\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
- []
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1483.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1483.
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 1485--1503
-\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
- []
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1504.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1504.
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 1506--1524
+Underfull \hbox (badness 1221) in paragraph at lines 1465--1492
 \OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
  []
 
 [14]
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1527.
+(hyperref)                removing `math shift' on input line 1493.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1527.
+(hyperref)                removing `math shift' on input line 1493.
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 1529--1547
+Underfull \hbox (badness 1221) in paragraph at lines 1495--1513
 \OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
  []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1549.
+(hyperref)                removing `math shift' on input line 1515.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1549.
+(hyperref)                removing `math shift' on input line 1515.
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 1551--1570
+Underfull \hbox (badness 1221) in paragraph at lines 1517--1535
 \OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
  []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1571.
+(hyperref)                removing `math shift' on input line 1536.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1571.
+(hyperref)                removing `math shift' on input line 1536.
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 1573--1583
+Underfull \hbox (badness 1221) in paragraph at lines 1538--1556
 \OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
  []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1584.
+(hyperref)                removing `math shift' on input line 1559.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1584.
+(hyperref)                removing `math shift' on input line 1559.
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 1586--1601
+Underfull \hbox (badness 1221) in paragraph at lines 1561--1579
 \OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
  []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1602.
+(hyperref)                removing `math shift' on input line 1581.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1602.
+(hyperref)                removing `math shift' on input line 1581.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1583--1602
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1622.
+(hyperref)                removing `math shift' on input line 1603.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1622.
+(hyperref)                removing `math shift' on input line 1603.
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 1605--1615
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1641.
+(hyperref)                removing `math shift' on input line 1616.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1641.
+(hyperref)                removing `math shift' on input line 1616.
 
 
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1657.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1657.
+Underfull \hbox (badness 1221) in paragraph at lines 1618--1633
+\OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of PSR
+ []
 
 [15]
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1681.
+(hyperref)                removing `math shift' on input line 1634.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1681.
+(hyperref)                removing `math shift' on input line 1634.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1703.
+(hyperref)                removing `math shift' on input line 1654.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1703.
+(hyperref)                removing `math shift' on input line 1654.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1725.
+(hyperref)                removing `math shift' on input line 1673.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1725.
+(hyperref)                removing `math shift' on input line 1673.
 
 
-Underfull \hbox (badness 7291) in paragraph at lines 1727--1749
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1689.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1689.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1713.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1713.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1735.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1735.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1757.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1757.
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 1759--1781
 \OT1/cmr/m/n/9 Fig. [][][][] shows the po-lar-iza-tion pulse pro-files of
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 1727--1749
+Underfull \hbox (badness 2564) in paragraph at lines 1759--1781
 \OT1/cmr/m/n/9 PSR J1824$\OMS/cmsy/m/n/9 ^^@$\OT1/cmr/m/n/9 2452A, which is in 
 the glob-u-lar clus-ter
  []
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1750.
+(hyperref)                removing `math shift' on input line 1782.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1750.
+(hyperref)                removing `math shift' on input line 1782.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1765.
+(hyperref)                removing `math shift' on input line 1797.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1765.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1791.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1791.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1803.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1803.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1829.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1829.
+(hyperref)                removing `math shift' on input line 1797.
 
 [16]
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1856.
+(hyperref)                removing `math shift' on input line 1823.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1856.
+(hyperref)                removing `math shift' on input line 1823.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1877.
+(hyperref)                removing `math shift' on input line 1835.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1877.
+(hyperref)                removing `math shift' on input line 1835.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1892.
+(hyperref)                removing `math shift' on input line 1861.
 
 
 Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `math shift' on input line 1892.
+(hyperref)                removing `math shift' on input line 1861.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1888.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1888.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1909.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1909.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1924.
+
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `math shift' on input line 1924.
 
 File: 0437.ps Graphic file (type eps)
 <0437.ps>
 
-LaTeX Warning: Float too large for page by 8.7144pt on input line 1935.
+LaTeX Warning: Float too large for page by 8.7144pt on input line 1967.
 
 File: 0613.ps Graphic file (type eps)
 <0613.ps>
@@ -896,9 +899,7 @@ File: 2145.ps Graphic file (type eps)
 
 <2145.ps>
 File: 2241.ps Graphic file (type eps)
- <2241.ps> [17
-
-] [18]
+ <2241.ps> [17] [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
@@ -970,12 +971,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [41]
 (./prof.aux) ) 
 Here is how much of TeX's memory you used:
- 6173 strings out of 256217
- 82535 string characters out of 1917094
- 224298 words of memory out of 1500000
- 9346 multiletter control sequences out of 10000+200000
+ 6180 strings out of 256217
+ 82607 string characters out of 1917094
+ 232503 words of memory out of 1500000
+ 9353 multiletter control sequences out of 10000+200000
  19215 words of font info for 70 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 36i,11n,39p,1545b,449s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 36i,11n,39p,1545b,445s stack positions out of 5000i,500n,6000p,200000b,15000s
 
-Output written on prof.dvi (41 pages, 244916 bytes).
+Output written on prof.dvi (41 pages, 255072 bytes).
