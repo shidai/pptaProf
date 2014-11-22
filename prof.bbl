@@ -1,10 +1,19 @@
-\begin{thebibliography}{59}
+\begin{thebibliography}{67}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Bhat} {et~al}\mbox{.}(2004){Bhat}, {Cordes}, {Camilo}, {Nice}, \&
   {Lorimer}}]{Bhat04}
 {Bhat} N.~D.~R., {Cordes} J.~M., {Camilo} F., {Nice} D.~J., {Lorimer} D.~R.,
   2004, \apj, 605, 759
+
+\bibitem[{{Bhat} {et~al}\mbox{.}(2014){Bhat}, {Ord}, {Tremblay}, {Tingay},
+  {Deshpande}, {van Straten}, {Oronsaye}, {Bernardi}, {Bowman}, {Briggs},
+  {Cappallo}, {Corey}, {Emrich}, {Goeke}, {Greenhill}, {Hazelton}, {Hewitt},
+  {Johnston-Hollitt}, {Kaplan}, {Kasper}, {Kratzenberg}, {Lonsdale}, {Lynch},
+  {McWhirter}, {Mitchell}, {Morales}, {Morgan}, {Oberoi}, {Prabu}, {Rogers},
+  {Roshi}, {Udaya Shankar}, {Srivani}, {Subrahmanyan}, {Waterson}, {Wayth},
+  {Webster}, {Whitney}, {Williams}, \& {Williams}}]{Bhat14}
+{Bhat} N.~D.~R. {et~al.}, 2014, \apjl, 791, L32
 
 \bibitem[{{Burgay} {et~al}\mbox{.}(2013){Burgay}, {Bailes}, {Bates}, {Bhat},
   {Burke-Spolaor}, {Champion}, {Coster}, {D'Amico}, {Johnston}, {Keith},
@@ -25,6 +34,9 @@
 
 \bibitem[{{Dyks} \& {Rudak}(2003)}]{Dyks03}
 {Dyks} J., {Rudak} B., 2003, \apj, 598, 1201
+
+\bibitem[{{Dyks} {et~al}\mbox{.}(2010){Dyks}, {Rudak}, \& {Demorest}}]{Dyks10}
+{Dyks} J., {Rudak} B., {Demorest} P., 2010, \mnras, 401, 1781
 
 \bibitem[{{Everett} \& {Weisberg}(2001)}]{Everett01}
 {Everett} J.~E., {Weisberg} J.~M., 2001, \apj, 553, 341
@@ -60,6 +72,9 @@
   {Nicastro}}]{Johnston93}
 {Johnston} S. {et~al.}, 1993, \nat, 361, 613
 
+\bibitem[{{Karastergiou}(2009)}]{Kara09}
+{Karastergiou} A., 2009, \mnras, 392, L60
+
 \bibitem[{{Keith} {et~al}\mbox{.}(2013){Keith}, {Coles}, {Shannon}, {Hobbs},
   {Manchester}, {Bailes}, {Bhat}, {Burke-Spolaor}, {Champion}, {Chaudhary},
   {Hotan}, {Khoo}, {Kocz}, {Os{\l}owski}, {Ravi}, {Reynolds}, {Sarkissian},
@@ -76,6 +91,9 @@
   {Camilo}, {Freire}, {Guillemot}, {Harding}, {Kramer}, {Michelson}, {Ransom},
   {Romani}, {Smith}, {Thompson}, {Weltevrede}, \& {Wood}}]{Keith11}
 {Keith} M.~J. {et~al.}, 2011, \mnras, 414, 1292
+
+\bibitem[{{Kennett} \& {Melrose}(1998)}]{Kennett98}
+{Kennett} M., {Melrose} D., 1998, \pasa, 15, 211
 
 \bibitem[{{Kijak} {et~al}\mbox{.}(2011){Kijak}, {Lewandowski}, {Maron},
   {Gupta}, \& {Jessner}}]{Kijak11}
@@ -115,7 +133,7 @@
 
 \bibitem[{{Liu} {et~al}\mbox{.}(2014){Liu}, {Desvignes}, {Cognard}, {Stappers},
   {Verbiest}, {Lee}, {Champion}, {Kramer}, {Freire}, \& {Karuppusamy}}]{Liu14}
-{Liu} K. {et~al.}, 2014, ArXiv e-prints
+{Liu} K. {et~al.}, 2014, \mnras, 443, 3752
 
 \bibitem[{{Lorimer} \& {Kramer}(2005)}]{Lorimer05}
 {Lorimer} D.~R., {Kramer} M., 2005, {Handbook of Pulsar Astronomy}. Cambridge
@@ -177,15 +195,25 @@
 {Ord} S.~M., {van Straten} W., {Hotan} A.~W., {Bailes} M., 2004, \mnras, 352,
   804
 
+\bibitem[{{Os{\l}owski} {et~al}\mbox{.}(2014){Os{\l}owski}, {van Straten},
+  {Bailes}, {Jameson}, \& {Hobbs}}]{Oslowski14}
+{Os{\l}owski} S., {van Straten} W., {Bailes} M., {Jameson} A., {Hobbs} G.,
+  2014, \mnras, 441, 3148
+
 \bibitem[{{Pennucci} {et~al}\mbox{.}(2014){Pennucci}, {Demorest}, \&
   {Ransom}}]{Pennucci14}
-{Pennucci} T.~T., {Demorest} P.~B., {Ransom} S.~M., 2014, ArXiv e-prints
+{Pennucci} T.~T., {Demorest} P.~B., {Ransom} S.~M., 2014, \apj, 790, 93
 
 \bibitem[{{Petrova}(2002)}]{Petrova02}
 {Petrova} S.~A., 2002, \aap, 383, 1067
 
 \bibitem[{{Radhakrishnan} \& {Cooke}(1969)}]{Radhakrishnan69}
 {Radhakrishnan} V., {Cooke} D.~J., 1969, \aplett, 3, 225
+
+\bibitem[{{Ramachandran} {et~al}\mbox{.}(2004){Ramachandran}, {Backer},
+  {Rankin}, {Weisberg}, \& {Devine}}]{Ramch04}
+{Ramachandran} R., {Backer} D.~C., {Rankin} J.~M., {Weisberg} J.~M., {Devine}
+  K.~E., 2004, \apj, 606, 1167
 
 \bibitem[{{Rankin}(1993)}]{Rankin93}
 {Rankin} J.~M., 1993, \apj, 405, 285
@@ -232,6 +260,15 @@
   {Johnston}, \& {Reynolds}}]{vanStraten10}
 {van Straten} W., {Manchester} R.~N., {Johnston} S., {Reynolds} J.~E., 2010,
   \pasa, 27, 104
+
+\bibitem[{{Wang} {et~al}\mbox{.}(2011){Wang}, {Han}, \& {Lai}}]{Wang11}
+{Wang} C., {Han} J.~L., {Lai} D., 2011, \mnras, 417, 1183
+
+\bibitem[{{Wang} {et~al}\mbox{.}(2014){Wang}, {Hobbs}, {Coles}, {Shannon},
+  {Zhu}, {Madison}, {Kerr}, {Ravi}, {Keith}, {Manchester}, {Levin}, {Bailes},
+  {Bhat}, {Burke-Spolaor}, {Dai}, {Oslowski}, {van Straten}, {Toomey}, {Wang},
+  \& {Wen}}]{Wang14}
+{Wang} J.~B. {et~al.}, 2014, ArXiv e-prints
 
 \bibitem[{{Watters} {et~al}\mbox{.}(2009){Watters}, {Romani}, {Weltevrede}, \&
   {Johnston}}]{Watters09}
